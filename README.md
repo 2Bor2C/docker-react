@@ -1,3 +1,8 @@
+
+![](https://github.com/2Bor2C/docker-react/master/workflow.png?raw=true)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
